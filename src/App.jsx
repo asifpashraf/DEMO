@@ -1,13 +1,13 @@
 
 import './App.css'
-import Sample from './sample'
+import Noushi from './noushi'
 
 function App() {
   
 
   return (
     <>
-      <Sample/>
+      <Noushi/>
     </>
   )
 }

@@ -1,7 +1,7 @@
-function Sample(){
+function Noushi(){
   return(
     <h1>NOUSHIDA P</h1>
   )
 }
 
-export default Sample
+export default Noushi
